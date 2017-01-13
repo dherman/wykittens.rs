@@ -2,5 +2,8 @@
 name = "wykittens"
 version = "1.0.0"
 authors = ["Dave Herman <dherman@mozilla.com>"]
+license = "MIT/Apache-2.0"
+description = "hooray for new Rustaceans"
+repository = "https://github.com/dherman/wykittens.rs"
 
 [dependencies]
