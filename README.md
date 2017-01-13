@@ -1,0 +1,3 @@
+# wykittens.rs
+
+because of course [wykittens](https://github.com/dherman/wykittens.js) is a new Rustacean too...
